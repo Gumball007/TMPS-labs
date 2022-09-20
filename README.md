@@ -8,13 +8,14 @@
  
 ## Description
 
-This repository contains laboratory works for the **TMPS**.
+:trollface:  This repository contains laboratory works for **TMPS**.
 
-Teacher **Gaidău Mihai**.
+:grey_exclamation:  Teacher **Gaidău Mihai**.
 
-##
-[:heavy_check_mark: Laboratory work 1]
+## Labs
+
+:heavy_check_mark: Laboratory work 1
 
 ## Contact
 
-My email: `ana.coroletchi@isa.utm.md`
+:mailbox:  My email: `ana.coroletchi@isa.utm.md`
