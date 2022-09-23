@@ -12,4 +12,4 @@ Write a program which will illustrate at least 2 **SOLID** Principles
 
 **I**nterface Segregation Principle. Make fine grained interfaces that are client specific Clients should not be forced to depend upon interfaces that they do not use.
 
-**D**ependecy Inversion Principle. Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
+**D**ependecy Inversion Principle. Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions. To create specific behavior you can use techniques like inheritance or interfaces.
