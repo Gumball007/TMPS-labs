@@ -13,7 +13,8 @@ class Clients:
         
         def get_customer(self):
             return self.customer
-
+            
+# Open-Closed Principle
     class VIPClientsDiscount(ClientsDiscount):
         def get_discount(self):
             return super().get_discount() * 2
