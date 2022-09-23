@@ -62,7 +62,7 @@ print(test.get_customer(), " ---> ", test.get_discount(), "MDL")
 test2 = Clients().VIPClientsDiscount("Ion", 200)
 print(test2.get_customer(), " ---> ", test2.get_discount(), "MDL")
 
-test3 = Clients.VVIPClientsDiscount("Oleg", 200)
+test3 = Clients.VVIPClientsDiscount("Andreea", 200)
 print(test3.get_customer(), " ---> ", test3.get_discount(), "MDL")
 
 print("-------------------------------")
