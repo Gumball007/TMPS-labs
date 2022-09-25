@@ -30,7 +30,7 @@ class Connector:
         print(f"{identifier} -- Connection established ... 100%")
 
 class Staff:
-    class AuthenticationStaff(): # este abstracta, nu are implementare, se comporta ca o interfata
+    class AuthenticationStaff(): # este abstracta, nu are implementare
         def __init__(self, connector: Connector, identifier):
             self.connection = connector.connect(identifier)
 
