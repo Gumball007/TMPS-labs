@@ -30,7 +30,7 @@ class Connector:
         print(f"{identifier} -- Connection established ... 100%")
 
 class Staff:
-    class AuthenticationStaff():
+    class AuthenticationStaff(): # este abstracta, nu are implementare, se comporta ca o interfata
         def __init__(self, connector: Connector, identifier):
             self.connection = connector.connect(identifier)
 
@@ -74,3 +74,5 @@ guardian = Staff().Guardian(connector)
 seller = Staff().Seller(connector)
 
 print(manager.authenticate("managerPassword"))
+print(guardian.authenticate("guardianPassword"))
+print(seller.authenticate("sellerPassword"))
