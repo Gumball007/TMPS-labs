@@ -4,7 +4,9 @@ Write a program which will illustrate at least 2 **SOLID** Principles
 
 ## SOLID Principles
 
-**S**ingle Responsibility Principle. A class should have only one job. So if a class has more than one responsibility, it becomes coupled. 
+The **SOLID** Principles are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.
+
+**S**ingle Responsibility Principle. A class should have only one job. So if a class has more than one responsibility, it becomes coupled.
 
 **O**pen-closed Principle. Software entities(Classes, modules, functions) should be open for extension, not modification.
 
