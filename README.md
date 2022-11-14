@@ -16,6 +16,8 @@
 
 [:heavy_check_mark: Laboratory work 1](https://github.com/Gumball007/TMPS-labs/tree/main/lab1)
 
+[:heavy_check_mark: Laboratory work 2](https://github.com/Gumball007/TMPS-labs/tree/main/lab2)
+
 ## Contact
 
 :mailbox:  My email: `ana.coroletchi@isa.utm.md`
