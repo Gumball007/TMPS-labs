@@ -159,4 +159,4 @@ p.check_user_password('Wrong_password')
 
 ## Conclusions
 
-At this laboratoty work I found out asymmetric ciphers and choose to implement RSA Cipher. This cipher requires knowlege of prime and coprime numbers, Euler's totient function, GCD and modular multiplicative inverse.
+At this laboratoty work I found out Structural Design Patterns. I became familiar with all the definitions, with all of the aspects and how to implement them.
